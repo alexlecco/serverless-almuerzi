@@ -1,0 +1,13 @@
+# dependencies
+
+$ npm i -S express mongoose body-parser cors
+
+
+
+# commands
+
+// start a project (rename it after)
+$ vercel init
+
+// deploy it to vercel.com
+$ vercel
