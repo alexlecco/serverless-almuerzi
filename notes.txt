@@ -1,9 +1,8 @@
+-------------------------------------------------------------------
 # dependencies
 
 $ npm i -S express mongoose body-parser cors
-
-
-
+-------------------------------------------------------------------
 # commands
 
 // start a project (rename it after)
@@ -17,3 +16,4 @@ $ vercel env pull
 
 // run dev server locally
 $ vercel dev
+-------------------------------------------------------------------
