@@ -11,3 +11,9 @@ $ vercel init
 
 // deploy it to vercel.com
 $ vercel
+
+// download env variables setup in vercel (cloud)
+$ vercel env pull
+
+// run dev server locally
+$ vercel dev
