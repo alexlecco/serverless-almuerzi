@@ -4,6 +4,7 @@ const Schema = mongoose.Schema
 const Meals = mongoose.model('Meal', new Schema({
   name: String,
   description: String,
+  image: String
 }))
 
 module.exports = Meals
